@@ -5,7 +5,7 @@
 ## I'm a High School student.
 
 - 👨‍💻 I’m currently working on various windows, android & web projects using C#, SQL, React, HTML, CSS, JavaScript...
-- 📚 I’m currently learning C#, C++, SQL, React, HTML, CSS, JavaSript & Tailwind.
+- 📚 Aspiring to become a Software Engineer.
 
 <br />
 
