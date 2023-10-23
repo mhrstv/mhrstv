@@ -47,7 +47,7 @@
 
 <br/>
 
-  <h2 align="center"> GitHub Statistics 📈 </h2>
+  <h2 align="center"> Statistics 📈 </h2>
   
   <div align="center"> 
      <a href="">
