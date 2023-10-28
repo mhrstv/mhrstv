@@ -8,15 +8,3 @@
 - 📚 Aspiring Software Engineer.
 
 <br />
-
----
-
-<br/>
-
-<br/>
-
-<br/>
-
----
-
-[Spotify]: https://open.spotify.com/user/gexa85w90h7an2l3k5oy3ljcp
