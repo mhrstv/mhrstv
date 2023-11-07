@@ -5,5 +5,4 @@
 ## I'm a High School student.
 
 - 👨‍💻 I’m currently working on various windows, android & web projects...
-- 📚 Aspiring Software Engineer.
 
