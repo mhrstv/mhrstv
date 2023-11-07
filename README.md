@@ -4,5 +4,5 @@
 
 ## I'm a High School student.
 
-- 👨‍💻 I’m currently working on various windows, android & web projects...
+- 👨‍💻 I’m currently working on various desktop, mobile & web projects...
 
