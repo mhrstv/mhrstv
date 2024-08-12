@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! My name is Martin and I am a high school student currently residing in Bulgaria. I have a strong passion for software engineering and programming, particularly in languages like C/C++ and C#.
+Hello! My name is Martin and I am a high school student currently residing in Bulgaria. I have a strong passion for software engineering.
 
 ## Future Goals
 In the future, I aspire to:
