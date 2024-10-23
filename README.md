@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! My name is Martin and I am a high school student currently residing in Bulgaria. I have a strong passion for software engineering.
+Hello! My name is Martin and I am a high school student currently living in Bulgaria. I am interested in software engineering.
 
 ## Languages & Tools
 <p align="left">
