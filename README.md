@@ -3,7 +3,7 @@
 ## Introduction
 Hello! My name is Martin and I am a high school student currently residing in Bulgaria. I have a strong passion for software engineering.
 
-## Tech Stack
+## Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c%23.svg" alt="C#" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" alt="C++" width="55" height="55"/>
