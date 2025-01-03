@@ -12,7 +12,7 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhrstv&repo=kodify)](https://github.com/mhrstv/kodify)-->
 
 
-## Technologies 💻
+## Tech Stack 💻
 <p align="center">
 <img title="C#" alt="C#" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="42" height="44" />
 <img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
