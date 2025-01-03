@@ -17,7 +17,7 @@
 <img title="C#" alt="C#" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="42" height="44" />
 <img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
 <img title="SQL" alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="90" height="44" />
+<img title="PostgreSQL" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" />
 <img title="MSSQL" alt="MSSQL" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="48" height="48" />
-<img title="Windows" alt="Windows" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
 <img title="HTML & CSS" alt="HTML & CSS" src="https://github.com/mhrstv/mhrstv/blob/main/img/htmlcss.png" width="50" height="50" />
 </p>
