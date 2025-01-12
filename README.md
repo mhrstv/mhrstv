@@ -5,7 +5,7 @@
 - 👷 I am open to project ideas and opportunities.
 - 👉 Currently working on my personal website / portfolio and a few projects.
 - 📫 Reach me at: j.martinhristov@gmail.com
-- 🔊 If there is a suitable job opportunity, please feel free to send an email to j.martinhristov@gmail.com. I will respond at the earliest convenience possible.
+- 🔊 If there is a suitable job opportunity, please feel free to send an [email](j.martinhristov@gmail.com) to me or contact me via [LinkedIn](https://www.linkedin.com/in/mhrstv/)
 
 <!--### Contributing projects-->
 
