@@ -1,16 +1,11 @@
 ### Hi there 👋
 - 👋 Hello，I'm Martin Hristov.
-- 👨‍💻 A '~Software Engineer~'/Student living in Sliven, Bulgaria. Currently a student, unemployed - looking for an internship. ***Good at C# .NET***
-- 🌱 I’m currently focused on improving a variety of my technological skills and learning new things.
+- 👨‍💻 A '~Software Engineer~' / **Student** living in Sliven, Bulgaria. Currently a student, unemployed - looking for an internship. ***Good at C# .NET***
+- 🌱 I’m currently focused on improving my technological skills and learning new things.
 - 👷 I am open to project ideas and opportunities.
-- 👉 Currently working on my personal website / portfolio and a few projects.
+- 👉 Currently working on my portfolio and open-source projects.
 - 📫 Reach me at: j.martinhristov@gmail.com
 - 🔊 If there is a suitable job opportunity, please feel free to send an [email](j.martinhristov@gmail.com) to me or contact me via [LinkedIn](https://www.linkedin.com/in/mhrstv/)
-
-<!--### Contributing projects-->
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhrstv&repo=kodify)](https://github.com/mhrstv/kodify)-->
-
 
 ## Tech Stack 💻
 <p align="center">
