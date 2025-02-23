@@ -5,7 +5,6 @@
 - 👷 I am open to project ideas and opportunities.
 - 👉 Currently working on my portfolio and open-source projects.
 - 📫 Reach me at: j.martinhristov@gmail.com
-- 🔊 If there is a suitable job opportunity, please feel free to send an [email](j.martinhristov@gmail.com) to me or contact me via [LinkedIn](https://www.linkedin.com/in/mhrstv/)
 
 ## Tech Stack 💻
 <p align="center">
