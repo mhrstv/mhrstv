@@ -14,4 +14,5 @@
 <img title="PostgreSQL" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" />
 <img title="MSSQL" alt="MSSQL" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="48" height="48" />
 <img title="HTML & CSS" alt="HTML & CSS" src="https://github.com/mhrstv/mhrstv/blob/main/img/htmlcss.png" width="50" height="50" />
+<img title="Linux" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="50" />
 </p>
