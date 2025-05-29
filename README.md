@@ -1,6 +1,6 @@
-### Hi there 👋
-- 👋 Hello，I'm Martin Hristov.
-- 👨‍💻 A '~Software Engineer~' / **Student** living in Sliven, Bulgaria. Currently a student, unemployed - looking for an internship. ***Good at C# .NET***
+### Hi there, 👋
+- Hello，I'm Martin Hristov,
+- 👨‍💻 a Software Engineer currently living in Sliven, Bulgaria.
 - 🌱 I’m currently focused on improving my technological skills and learning new things.
 - 👷 I am open to project ideas and opportunities.
 - 👉 Currently working on my portfolio and open-source projects.
