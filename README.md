@@ -1,9 +1,7 @@
 ### Welcome 👋
-- My name is Martin Hristov,
-- 👨‍💻 A Software Engineer currently living in Sliven, Bulgaria.
-- 🌱 I’m currently focused on improving my technological skills and learning new things.
+- My name is Martin Hristov.
+- ⭐ I’m currently focused on my overall technical improvement.
 - 👷 I am open to project ideas and opportunities.
-- 👉 Working on personal projects.
 - 📫 Reach me at: j.martinhristov@gmail.com
 
 ## Tech Stack 🚀
