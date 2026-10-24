@@ -1,20 +1,13 @@
 <h1 align="center">Hi, I'm Martin 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student @ Sofia University</b><br>
-  Based in Sofia, Bulgaria 🇧🇬
-</p>
-
-<p align="center">
   <a href="https://portfolio-mhrstvv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/mhrstv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:j.martinhristov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
 ## 🧑‍💻 About me
-
+A software engineering student based in Sofia, Bulgaria.
 - 🏗️ Interested in **OOP**, **design patterns**, **software architecture** and **system design**
 - 🚀 Currently exploring **DevOps**, **cloud technologies**, **CI/CD** and **automation**
 - 📚 Learning by building: most of my projects start as university coursework and grow from there
