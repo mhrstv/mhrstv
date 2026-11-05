@@ -5,12 +5,11 @@
   <a href="https://linkedin.com/in/mhrstv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:j.martinhristov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-## 🧑‍💻 About me
-A software engineering student based in Sofia, Bulgaria.
-- 🏗️ Interested in **OOP**, **design patterns**, **software architecture** and **system design**
-- 🚀 Currently exploring **DevOps**, **cloud technologies**, **CI/CD** and **automation**
-- 📚 Learning by building: most of my projects start as university coursework and grow from there
+<p align="center">
+A software engineering student based in Sofia, Bulgaria.<br>
+Interested in <b>software architecture</b> and <b>system design</b>, <b>DevOps</b>, cloud technologies, <b>CI/CD and automation</b>.<br>
+Learning by building: most of my projects start as university coursework and grow from there.
+</p>
 
 ## 🛠️ Tech & Skills
 
